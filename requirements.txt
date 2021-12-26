@@ -1,2 +1,6 @@
 #add any project dependencies here
+<<<<<<< HEAD
 django>=3.2
+=======
+django>=3.2
+>>>>>>> 6d62503013ad84bf1d1412ac082eea6e1ef6631b
